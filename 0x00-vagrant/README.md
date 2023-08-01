@@ -1,1 +1,1 @@
-echo
+not empty
